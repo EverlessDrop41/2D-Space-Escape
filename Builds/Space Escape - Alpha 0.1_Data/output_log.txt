@@ -1,0 +1,109 @@
+Initialize engine verrson: 4.3.44f1 (e444f76e01cd)
+
+GfxDevice:: creating device cliet; threadeed=1
+
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.4460]
+    Renderer: NVIDIA GeForce GTX 760
+    Vendor:   NVIDIA
+    VRAM:     1985 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.4460]
+    Renderer: NVIDIA GeForce GTX 760
+    Vendor:   NVIDIA
+    VRAM:     1985 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Beegii MoMonoMaoManagr RelradAeloadssssembly
+
+Platform assembly: C:\UserseTrs\Tom\SkyDrive\Unity Games\paDcSpa Escae Escape\BSpilce Escacee - Alpha  .Alpha 0.1_Dgata\MinayEngine.dll (thin mees.ge isdhlrml(this
+ message is harLlesds)
+ C:\Users\Tom\Lkoading C:\Usera\momesky2DrSpace Eiscape\Builds\Space Escape -i Alpha 0.1E_capea\Managead\UnityEngine.dldl iityE Ugnity Ch linto Unit
+y Child Domain
+Plaattoform assembly: C:\Users\Tom\ykyrDvrive\Un Games\2D Space acscase\apeilduilds\Space Epe a pepha 0.ph_Da0.1_Data\d\assaembly-seharp.dll (this mesthigesis hasamlges)s harmless)
+LLadading :\:Users\Tomm\SkyDrive\Unity Gamees\2D Spaece Eape\eu\BuilSds\Space Escapelpha 0.a _D.1_DaMan\ged\Msseably-CedhaArp.dll into Unity Child Unity C
+hild Domain
+--Comopleted reload, in   0.535 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initializing input.
+<RI> Input initialized.
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/Runtime/Misc/Player.cpp Line: 1650)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore
+UnloadTime: 0.393424 ms
+System memory in use before: 9.6 MB.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.5 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 146.
+Total: 1.673253 ms (FindLiveObjects: 0.023263 ms CreateObjectMapping: 0.018473 ms MarkObjects: 0.159422 ms  DeleteObjects: 0.009236 ms)
+
+UnloadTime: 0.289766 ms
+System memory in use before: 9.9 MB.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.9 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 0.903851 ms (FindLiveObjects: 0.008894 ms CreateObjectMapping: 0.007868 ms MarkObjects: 0.099211 ms  DeleteObjects: 0.004105 ms)
+
+Hit
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ShipControll:OnCollisionEnter2D(Collision2D) (at C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\ShipControll.cs:21)
+ 
+(Filename: C Line: 0)
+
+UnloadTime: 0.576795 ms
+System memory in use before: 9.9 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.9 MB.
+
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 115.
+Total: 1.711911 ms (FindLiveObjects: 0.014368 ms CreateObjectMapping: 0.015052 ms MarkObjects: 0.155317 ms  DeleteObjects: 0.136501 ms)
+
+MAKE AN OPTIONS MENU YOU STUPID DEV
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MenuGUI:OnGUI() (at C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Gui\MenuGUI.cs:18)
+ 
+(Filename: C Line: 0)
+
+MAKE AN OPTIONS MENU YOU STUPID DEV
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MenuGUI:OnGUI() (at C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Gui\MenuGUI.cs:18)
+ 
+(Filename: C Line: 0)
+
+MAKE AN OPTIONS MENU YOU STUPID DEV
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MenuGUI:OnGUI() (at C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Gui\MenuGUI.cs:18)
+ 
+(Filename: C Line: 0)
+
+MAKE AN OPTIONS MENU YOU STUPID DEV
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MenuGUI:OnGUI() (at C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Gui\MenuGUI.cs:18)
+ 
+(Filename: C Line: 0)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore

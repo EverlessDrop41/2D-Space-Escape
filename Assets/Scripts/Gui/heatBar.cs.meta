@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: bbcfb9a25a12ddd42ab55b847058bb67
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - barBackground: {fileID: 2800000, guid: f3da4058ec7020642a20b930413b6156, type: 3}
+  - barProgress: {fileID: 2800000, guid: 6dddbeed695e5e345aa3a2d9a01e91f3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

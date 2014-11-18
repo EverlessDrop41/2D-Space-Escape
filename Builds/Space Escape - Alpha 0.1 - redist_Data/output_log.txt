@@ -1,0 +1,662 @@
+Initialize engine version: 4.5.0f6 (fd4616464986)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.3788]
+    Renderer: NVIDIA GeForce GTX 760
+    Vendor:   NVIDIA
+    VRAM:     1985 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Builds\Space Escape - Alpha 0.1 - redist_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Builds\Space Escape - Alpha 0.1 - redist_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Builds\Space Escape - Alpha 0.1 - redist_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Builds\Space Escape - Alpha 0.1 - redist_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.074 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.304134 ms
+System memory in use before: 9.8 MB.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 128.
+Total: 0.912744 ms (FindLiveObjects: 0.006157 ms CreateObjectMapping: 0.013000 ms MarkObjects: 0.061921 ms  DeleteObjects: 0.050289 ms)
+
+UnloadTime: 0.298318 ms
+System memory in use before: 10.1 MB.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.1 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.813875 ms (FindLiveObjects: 0.007868 ms CreateObjectMapping: 0.008894 ms MarkObjects: 0.075605 ms  DeleteObjects: 0.004105 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+Hit
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ShipControll:OnCollisionEnter2D(Collision2D) (at C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\ShipControll.cs:26)
+ 
+(Filename: C Line: 0)
+
+UnloadTime: 0.656505 ms
+System memory in use before: 10.6 MB.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.5 MB.
+
+Unloading 79 unused Assets to reduce memory usage. Loaded Objects now: 164.
+Total: 0.890850 ms (FindLiveObjects: 0.007868 ms CreateObjectMapping: 0.008552 ms MarkObjects: 0.097842 ms  DeleteObjects: 0.096474 ms)
+
+UnloadTime: 0.295239 ms
+System memory in use before: 10.5 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 165.
+Total: 0.849797 ms (FindLiveObjects: 0.007184 ms CreateObjectMapping: 0.008552 ms MarkObjects: 0.107079 ms  DeleteObjects: 0.053026 ms)
+
+UnloadTime: 0.374266 ms
+System memory in use before: 10.5 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.5 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 0.833717 ms (FindLiveObjects: 0.010605 ms CreateObjectMapping: 0.009579 ms MarkObjects: 0.121448 ms  DeleteObjects: 0.004447 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at laserGun.FixedUpdate () [0x00106] in C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\laserGun.cs:46 
+ 
+(Filename: C Line: 0)
+
+Hit
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ShipControll:OnCollisionEnter2D(Collision2D) (at C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\ShipControll.cs:26)
+ 
+(Filename: C Line: 0)
+
+UnloadTime: 0.614426 ms
+System memory in use before: 10.6 MB.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.5 MB.
+
+Unloading 79 unused Assets to reduce memory usage. Loaded Objects now: 164.
+Total: 0.933955 ms (FindLiveObjects: 0.009921 ms CreateObjectMapping: 0.009579 ms MarkObjects: 0.107764 ms  DeleteObjects: 0.105027 ms)
+
+UnloadTime: 0.279160 ms
+System memory in use before: 10.5 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 165.
+Total: 0.852533 ms (FindLiveObjects: 0.007526 ms CreateObjectMapping: 0.008210 ms MarkObjects: 0.110843 ms  DeleteObjects: 0.043789 ms)
+
+UnloadTime: 0.275055 ms
+System memory in use before: 10.5 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.5 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 0.834744 ms (FindLiveObjects: 0.010263 ms CreateObjectMapping: 0.009236 ms MarkObjects: 0.151553 ms  DeleteObjects: 0.004105 ms)
+
+Hit
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ShipControll:OnCollisionEnter2D(Collision2D) (at C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\ShipControll.cs:26)
+ 
+(Filename: C Line: 0)
+
+UnloadTime: 0.519662 ms
+System memory in use before: 10.6 MB.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.5 MB.
+
+Unloading 79 unused Assets to reduce memory usage. Loaded Objects now: 160.
+Total: 0.912744 ms (FindLiveObjects: 0.007868 ms CreateObjectMapping: 0.008552 ms MarkObjects: 0.104000 ms  DeleteObjects: 0.100921 ms)
+
+UnloadTime: 0.304818 ms
+System memory in use before: 10.5 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 156.
+Total: 1.017772 ms (FindLiveObjects: 0.007526 ms CreateObjectMapping: 0.008552 ms MarkObjects: 0.140264 ms  DeleteObjects: 0.035921 ms)
+
+UnloadTime: 0.253844 ms
+System memory in use before: 10.5 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.5 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 0.857665 ms (FindLiveObjects: 0.007184 ms CreateObjectMapping: 0.008210 ms MarkObjects: 0.130343 ms  DeleteObjects: 0.004105 ms)
+
+UnloadTime: 0.272318 ms
+System memory in use before: 10.5 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 155.
+Total: 0.824138 ms (FindLiveObjects: 0.007868 ms CreateObjectMapping: 0.008894 ms MarkObjects: 0.103658 ms  DeleteObjects: 0.034552 ms)
+
+UnloadTime: 0.288055 ms
+System memory in use before: 10.4 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.4 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 156.
+Total: 0.953797 ms (FindLiveObjects: 0.009579 ms CreateObjectMapping: 0.009236 ms MarkObjects: 0.123843 ms  DeleteObjects: 0.005815 ms)
+
+UnloadTime: 0.273686 ms
+System memory in use before: 10.6 MB.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 172.
+Total: 0.839191 ms (FindLiveObjects: 0.007868 ms CreateObjectMapping: 0.008894 ms MarkObjects: 0.107764 ms  DeleteObjects: 0.038316 ms)
+
+UnloadTime: 0.292160 ms
+System memory in use before: 10.5 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.5 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 265.
+Total: 0.818665 ms (FindLiveObjects: 0.010263 ms CreateObjectMapping: 0.009921 ms MarkObjects: 0.124869 ms  DeleteObjects: 0.004789 ms)
+
+Hit
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ShipControll:OnCollisionEnter2D(Collision2D) (at C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Ship\ShipControll.cs:26)
+ 
+(Filename: C Line: 0)
+
+UnloadTime: 0.471083 ms
+System memory in use before: 10.6 MB.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.5 MB.
+
+Unloading 79 unused Assets to reduce memory usage. Loaded Objects now: 169.
+Total: 0.922666 ms (FindLiveObjects: 0.009236 ms CreateObjectMapping: 0.011289 ms MarkObjects: 0.123843 ms  DeleteObjects: 0.100579 ms)
+
+UnloadTime: 0.258291 ms
+System memory in use before: 10.5 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 164.
+Total: 0.899744 ms (FindLiveObjects: 0.007868 ms CreateObjectMapping: 0.009236 ms MarkObjects: 0.126922 ms  DeleteObjects: 0.065000 ms)
+
+UnloadTime: 0.280528 ms
+System memory in use before: 10.4 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.4 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 162.
+Total: 0.797454 ms (FindLiveObjects: 0.007526 ms CreateObjectMapping: 0.009236 ms MarkObjects: 0.105369 ms  DeleteObjects: 0.004105 ms)
+
+UnloadTime: 0.257949 ms
+System memory in use before: 10.4 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.4 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 165.
+Total: 1.069430 ms (FindLiveObjects: 0.010605 ms CreateObjectMapping: 0.009579 ms MarkObjects: 0.109474 ms  DeleteObjects: 0.004789 ms)
+
+UnloadTime: 0.271976 ms
+System memory in use before: 10.4 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.4 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 168.
+Total: 0.826191 ms (FindLiveObjects: 0.008552 ms CreateObjectMapping: 0.008552 ms MarkObjects: 0.138211 ms  DeleteObjects: 0.006500 ms)
+
+UnloadTime: 0.249054 ms
+System memory in use before: 10.4 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.4 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 175.
+Total: 0.803612 ms (FindLiveObjects: 0.008210 ms CreateObjectMapping: 0.008894 ms MarkObjects: 0.110500 ms  DeleteObjects: 0.004105 ms)
+
+UnloadTime: 0.245633 ms
+System memory in use before: 10.4 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.4 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.812165 ms (FindLiveObjects: 0.008210 ms CreateObjectMapping: 0.009579 ms MarkObjects: 0.108106 ms  DeleteObjects: 0.004447 ms)
+
+UnloadTime: 0.387950 ms
+System memory in use before: 10.4 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.4 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 1.600040 ms (FindLiveObjects: 0.016079 ms CreateObjectMapping: 0.013000 ms MarkObjects: 0.257949 ms  DeleteObjects: 0.008894 ms)
+
+UnloadTime: 0.392056 ms
+System memory in use before: 10.4 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.4 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 180.
+Total: 1.519645 ms (FindLiveObjects: 0.015394 ms CreateObjectMapping: 0.013000 ms MarkObjects: 0.174133 ms  DeleteObjects: 0.007868 ms)
+
+UnloadTime: 0.404714 ms
+System memory in use before: 10.4 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.4 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 183.
+Total: 1.681804 ms (FindLiveObjects: 0.015736 ms CreateObjectMapping: 0.013684 ms MarkObjects: 0.185080 ms  DeleteObjects: 0.008552 ms)
+
+UnloadTime: 0.407108 ms
+System memory in use before: 10.4 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.4 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 186.
+Total: 1.593198 ms (FindLiveObjects: 0.016079 ms CreateObjectMapping: 0.013342 ms MarkObjects: 0.178922 ms  DeleteObjects: 0.007526 ms)
+
+UnloadTime: 0.238107 ms
+System memory in use before: 10.4 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.4 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 189.
+Total: 0.798822 ms (FindLiveObjects: 0.007868 ms CreateObjectMapping: 0.008894 ms MarkObjects: 0.125895 ms  DeleteObjects: 0.004447 ms)
+
+UnloadTime: 0.295923 ms
+System memory in use before: 10.4 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 10.4 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.842270 ms (FindLiveObjects: 0.009579 ms CreateObjectMapping: 0.010605 ms MarkObjects: 0.128632 ms  DeleteObjects: 0.004789 ms)
+
+Level '' (-1) couldn't be loaded because it has not been added to the build settings.
+To add a level to the build settings use the menu File->Build Settings...
+UnityEngine.Application:LoadLevelAsync(String, Int32, Boolean, Boolean)
+UnityEngine.Application:LoadLevel(String) (at C:\BuildAgent\work\aeedb04a1292f85a\artifacts\StandalonePlayerGenerated\UnityEngineApplication.cs:59)
+LevelLoadButton:OnMouseDown() (at C:\Users\Tom\SkyDrive\Unity Games\2D Space Escape\Assets\Scripts\Gui\LevelLoadButton.cs:10)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\BuildAgent\work\aeedb04a1292f85a\Runtime\Export\MouseEvents.cs:17)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\BuildAgent\work\aeedb04a1292f85a\Runtime\Export\MouseEvents.cs:156)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32, Int32) (at C:\BuildAgent\work\aeedb04a1292f85a\Runtime\Export\MouseEvents.cs:138)
+
+[C:/BuildAgent/work/aeedb04a1292f85a/Runtime/Misc/Player.cpp line 269] 
+(Filename: C Line: 0)
+
