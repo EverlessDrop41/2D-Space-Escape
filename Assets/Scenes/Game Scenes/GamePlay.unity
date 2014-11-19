@@ -240,6 +240,7 @@ GameObject:
   - 4: {fileID: 573103862}
   - 132: {fileID: 573103863}
   - 114: {fileID: 573103864}
+  - 114: {fileID: 573103865}
   m_Layer: 0
   m_Name: Ammo Displayer
   m_TagString: Untagged
@@ -297,6 +298,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   message: 'Ammo: '
   playerPrefsName: Ammo
+--- !u!114 &573103865
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 573103861}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cfb708f3c2e110499385e82e4f94e6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &616234831
 GameObject:
   m_ObjectHideFlags: 0
