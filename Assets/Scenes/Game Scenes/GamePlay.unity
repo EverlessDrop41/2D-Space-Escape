@@ -178,6 +178,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_FirstSelected: {fileID: 0}
   m_sendNavigationEvents: 1
+  m_DragThreshold: 5
 --- !u!4 &285329758
 Transform:
   m_ObjectHideFlags: 0
@@ -456,7 +457,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f03aa5ac78f5b294ca062cb9b89005b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  size: {x: 51.2000008, y: 0, z: 0}
+  size: {x: 61.2000008, y: 0, z: 0}
 --- !u!4 &773650976
 Transform:
   m_ObjectHideFlags: 0
@@ -499,7 +500,7 @@ GameObject:
   m_Icon: {fileID: -1003283189, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &815364050
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -579,6 +580,7 @@ Canvas:
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
   m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
 --- !u!224 &839207380
@@ -978,6 +980,10 @@ Prefab:
     - target: {fileID: 11400000, guid: 253f4edefb5a4ad4b87b87ca125cc256, type: 2}
       propertyPath: Use
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 253f4edefb5a4ad4b87b87ca125cc256, type: 2}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 253f4edefb5a4ad4b87b87ca125cc256, type: 2}
@@ -1552,4 +1558,3 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2036941028}
-  m_HideIfInvisible: 0
